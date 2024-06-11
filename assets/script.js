@@ -26,5 +26,5 @@ function listTopics() {
 console.log("Here are the topics we learned through Preworkk!");
 listTopics();
 
-console.log("which topic should we study first?");
+console.log("Which topic should we study first?");
 selectTopic();
